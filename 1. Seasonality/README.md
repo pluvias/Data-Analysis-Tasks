@@ -9,4 +9,10 @@ Sales and traffic data from GA is considered. The data is provided by pharmacy c
   - What seasonality of drugs can there be? Can it be seen in sales data or in traffic?
   - Is it possible to predict sales or traffic for 2020 based on 2-year data?
  
-Awaiting for LSTM network realization.
+ 
+1st part: define seasonality.
+2nd part: forecast.
+
+Awaiting for the LSTM network realization.
+
+pdf Report is uploaded.
