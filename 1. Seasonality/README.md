@@ -1,4 +1,4 @@
-# Seasonality
+# Seasonality and Forecast
 
 Sales and traffic data from GA is considered. The data is provided by pharmacy chain.
 
